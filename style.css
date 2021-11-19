@@ -1,0 +1,10 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+div.text {
+  font-family: Helvetica;
+  padding: 5px;
+  margin: 20px;
+  border-radius: 10px;
+}
