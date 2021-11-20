@@ -8,3 +8,9 @@ div.text {
   margin: 20px;
   border-radius: 10px;
 }
+.myDiv {
+  border: 1px outset red;
+  background-color: DeepSkyBlue;   
+  color: White;
+  text-align: center;
+}
